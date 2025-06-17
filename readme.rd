@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/hallfana/cpp/refs/heads/main/38a.gif)
+![](https://github.com/hallfana/cpp/38a.gif)
