@@ -1,1 +1,1 @@
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/548/168/38a.gif">
+<img src="https://raw.githubusercontent.com/hallfana/cpp/refs/heads/main/38a.gif">
