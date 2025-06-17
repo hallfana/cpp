@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/hallfana/cpp/refs/heads/main/38a.gif">
+![](https://raw.githubusercontent.com/hallfana/cpp/refs/heads/main/38a.gif)
